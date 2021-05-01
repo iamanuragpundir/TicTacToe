@@ -3,7 +3,7 @@ The game is widely popular among college and school going students. Two players 
 
 
 REQUIREMENTS
-any linux dsitro
+Any linux dsitro
 
 CREATING RUNNING ENVIRONMENT
 1. sudo apt-get install python3-pip
